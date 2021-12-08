@@ -1,0 +1,6 @@
+{
+  "appId": "cc.com.test",
+  "appName": "testapp",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
